@@ -18,11 +18,11 @@ in addition dax was used to create calendar table which is necessary for time in
 
 The financial report dashboard for July 2020 highlights several key points:
 
-# a- Actuals vs Budget: The actual spending ($245M) significantly exceeded the budget, indicating an overrun
+### a- Actuals vs Budget: The actual spending ($245M) significantly exceeded the budget, indicating an overrun
 
-# b- Forecast vs Budget: The forecasted amounts are consistently higher than the budgeted amounts throughout the year
+## b- Forecast vs Budget: The forecasted amounts are consistently higher than the budgeted amounts throughout the year
 
-# c- Running Totals: Cumulative values show a steady increase, with actuals surpassing both budget and forecast
+## c- Running Totals: Cumulative values show a steady increase, with actuals surpassing both budget and forecast
 
 # d- Budget Impact: There are notable variances between budget and forecast, with some months showing positive differences and others negative.
 Expense Categories: Infrastructure, Operational Expense (OpEx), and Functional Expense (FuncEx) all show variances, with some categories having negative variances (red bars) and others positive (blue bars).
