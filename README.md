@@ -32,6 +32,8 @@ Summary of findings can be found [here](https://github.com/theatallah/Budget-vs-
 
 Region Analysis can be found [here](https://github.com/theatallah/Budget-vs-forecast/blob/main/Snapshots/Region%20study.jpg)
 
+What are the costelements that are contributing to most of changes [here](https://github.com/theatallah/Budget-vs-forecast/blob/main/Snapshots/decomposition%20tree.jpg)
+
 ## Conclusions:
 
 Overall, the report suggests that actual spending is higher than planned, and forecasts predict continued higher spending. 
