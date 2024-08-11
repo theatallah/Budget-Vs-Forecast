@@ -28,6 +28,8 @@ d- Budget Impact: There are notable variances between budget and forecast, with 
 
 e- Expense Categories: Infrastructure, Operational Expense (OpEx), and Functional Expense (FuncEx) all show variances, with some categories having negative variances (red bars) and others positive (blue bars).
 
+Summary of findings can be found [here](
+
 ## Conclusions:
 
 Overall, the report suggests that actual spending is higher than planned, and forecasts predict continued higher spending. 
@@ -39,5 +41,7 @@ b- Cost Management: Countries with high cost variances on the scatter plot may n
 c- Forecast Accuracy: The alignment between forecasted and actual percentages can indicate the accuracy of your forecasting methods. If there are significant differences, it may be necessary to refine your forecasting models to better predict future expenses
 
 d- Regional Performance: Analyze the performance of different regions to identify best practices that can be applied across other regions. For example, if one region consistently stays within budget, their strategies could be adopted by other regions
+
+
 
 
