@@ -28,7 +28,7 @@ d- Budget Impact: There are notable variances between budget and forecast, with 
 
 e- Expense Categories: Infrastructure, Operational Expense (OpEx), and Functional Expense (FuncEx) all show variances, with some categories having negative variances (red bars) and others positive (blue bars).
 
-Summary of findings can be found [here](
+Summary of findings can be found [here](https://github.com/theatallah/Budget-vs-forecast/blob/main/Snapshots/summary%20page.jpg)
 
 ## Conclusions:
 
