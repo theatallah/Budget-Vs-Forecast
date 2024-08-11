@@ -2,7 +2,7 @@
 
 ## 1. Introduction:
 
-This is a project about cost and budget forecasting based on region, country and certain IT Departments
+This is a project about cost and budget forecasting based on region, country and certain IT Departments Using Power BI
 
 ## 2. Data Used:
 
@@ -10,7 +10,8 @@ Data used from MYONLINETRAINING HUB youtube channel, mainly there are csv files 
 
 ## 4. Tools used:
 
-Power query was used to import the data and clean it, for visuals power bi was used
+Power query was used to import the data and clean it, 
+for visuals power bi was used
 DAX Formulas used to calculate Running totals,budget vs forecast difference and % difference between budget and forecasts, 
 in addition dax was used to create calendar table which is necessary for time intelligence formulas 
 
