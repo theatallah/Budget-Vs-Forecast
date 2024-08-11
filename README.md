@@ -30,6 +30,8 @@ e- Expense Categories: Infrastructure, Operational Expense (OpEx), and Functiona
 
 Summary of findings can be found [here](https://github.com/theatallah/Budget-vs-forecast/blob/main/Snapshots/summary%20page.jpg)
 
+Region Analysis can be found [here](https://github.com/theatallah/Budget-vs-forecast/blob/main/Snapshots/Region%20study.jpg)
+
 ## Conclusions:
 
 Overall, the report suggests that actual spending is higher than planned, and forecasts predict continued higher spending. 
